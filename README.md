@@ -4,7 +4,6 @@ Global fire patterns visualized based on NASA's FIRMS data, focusing on MODIS on
 
 <img width="500" alt="Screenshot 2023-07-13 at 15 43 47" src="https://github.com/jhjanicki/FIRMS_data_process_viz/assets/6565011/99bb6106-d578-4e3f-9e06-92be6ba5a539">
 
-
 ## Link
 https://juliahanjanicki.com/projects/fires/
 
