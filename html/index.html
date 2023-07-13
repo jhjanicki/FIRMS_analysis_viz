@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+    <meta charset="utf-8">
+    <meta name='viewport' content='width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no'>
+    <title>Scorched Earth: A decade of burning landscapes</title>
+    <meta name="description" content="Scorched Earth: A decade of burning landscapes">
+    <meta name="keywords" content="fires, wildfires, 2010, 2019, D3, visualization, MODIS">
+    <meta name="author" content="Julia Janicki, Sylvia Janicki">
+    <link href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,700&display=swap" rel="stylesheet">
+    <link href="./style.css" rel="stylesheet">
+
+<style>
+
+</style>
+</head>
+
+<body>
+  <div class="chartWrapper">
+  <div id="cont" class="container-fluid">
+
+
+    <div class="row"  style="padding: 0px 50px;">
+      <div class="col-md-7 column text-center">
+        <h1 class="title">Scorched Earth: A decade of burning landscapes</h1>
+        <p class="subheading">By Julia Janicki & Sylvia Janicki </p>
+        <p class="subheading">Global fire patterns are visualized based on NASA's FIRMS data, focusing on MODIS only and not VIIRS. The MODIS satellite take a ‘snapshot’ of events as it passes over the earth and each active fire detection represents the center of a 1km pixel flagged as containing one or more fires.
+         This visualization can inform us which countries and what time of the year fires most frequently occur by visualizing the fire counts by month and year, fire counts by country by year, and country rankings by year.
+         Why do certain countries have so many fires? Causes can be related to climate conditions, agricultural practices, volcanoes, and more. Many fire evnets over the past decade have lead to deforestation in many regions, from the Amazon to the Congo basin to Indonesia.</p>
+         <p class="note2"> Note: Since FIRMS data have a 2-3 month lag, 2019's data is available until September so the fire counts for 2019 would be lower than expected, in particular for countries such as Australia. The visualization will be updated in February when the complete dataset is available.</p>
+      </div>
+      <div class="col-md-5 column text-center">
+      </div>
+    </div>
+
+    <hr>
+
+    <div class="row" style="margin-top:20px;">
+      <div class="col-md-2 column text-center">
+      </div>
+      <div class="col-md-8 column text-center">
+        <h2> Fires through time </h2>
+        <h3 id="chart1H3"> This chart visualizes the number of fires detected by month and year. It appears that more fires occur from June to August.</h3>
+        <div id="chart1"></div>
+      </div>
+      <div class="col-md-2 column text-center">
+      </div>
+    </div>
+
+    <hr>
+
+
+    <div class="row">
+      <div id="pin1" class="block col-md-2 col-sm-2 column text-center">
+          <div id="buttonWrap">
+            <div class='toggle' id='switch'>
+                <div class='toggle-text-off'><b>scroll</b></div>
+                <div class='toggle-button'></div>
+                <div class='toggle-text-on'><b>manual</div>
+            </div>
+            <div class='reset' id='reset'>
+                <div class='reset-text'><b>reset</b></div>
+                <div class='reset-button'></div>
+            </div>
+          </div>
+        <div id="wrap">
+          <p id="howto">Display 'read-chart' instructions</p>
+          <img id="howtoimg"class="img-responsive img-fluid" src="./img/legend.png"/>
+        	<h2 id="countryTitle"><b><b></h2>
+          <p id="lineTitle">  Number Fires Detected by Year</p>
+          <div id="line"></div>
+          <p id="countryDescription"> Analysis Not Available </p>
+        </div>
+      </div>
+      <div class="col-md-8 col-sm-7 column text-center chartWrap">
+        <h2 id="space"> Fires through space </h2>
+        <h3> Which countries have the most fires each year over the last ten years? See the rankings below:</h3>
+        <p class="note"> Note: Since FIRMS data have a 2-3 month lag, 2019's data is available until September so the fire counts for 2019 would be lower than expected, in particular for countries such as Australia. The visualization will be updated in February when the complete dataset is available.</p>
+        <div id="buttonWrap2">
+          <div class='toggle' id='switch'>
+              <div class='toggle-text-off'><b>scroll</b></div>
+              <div class='toggle-button'></div>
+              <div class='toggle-text-on'><b>manual</div>
+          </div>
+          <div class='reset' id='reset'>
+              <div class='reset-text'><b>reset</b></div>
+              <div class='reset-button'></div>
+          </div>
+        </div>
+        <div id="chart"></div>
+      </div>
+      <div class="col-md-2 col-sm-3 mapBlock">
+          <div id="map"></div>
+      </div>
+    </div>
+    <hr>
+    <!-- Data souces and methods -->
+    <div class="row" style="padding-top: 0px;">
+      <div class="col-sm-5 column col-sm-offset-1">
+        <h3 id="data">Data Source</h3>
+        <p>Yearly data in csv format has been downloaded from NASA's FIRMS (Fire Information For Resource Management System) <a href="https://firms.modaps.eosdis.nasa.gov/">Website</a>. This particular visualization has focused only on data acquired by MODIS (Moderate Resolution Imaging Spectroradiometer).</p>
+
+      </div>
+      <div class="col-sm-5 column col-sm-offset-1">
+        <h3>Methods</h3>
+        <p>The csv data was downloaded and included fields such as date, latitude and longitude. A python script was written to assign each location to a country and count the number of fires by country and by month.  The total number of records of fire detection was over 40 million.</p>
+      </div>
+    </div>
+
+    <hr>
+
+    <!-- Attribution -->
+    <div class="row" style="padding-top: 0px;">
+      <div class="col-sm-5 column col-sm-offset-1">
+        <h3>Reference</h3>
+        <p>The Amazon is burning at record rates—and deforestation is to blame. -  National Geographic</p>
+        <p>The Amazon, Siberia, Indonesia: A World of Fire - The New York Times </p>
+        <p>Record Temperatures and Wildfires in Eastern Russia - NASA </p>
+        <p>2010 Russian wildfires - Wikipedia </p>
+        <p>Indonesian fires burnt 1.6 million hectares of land this year: researchers - Reuters</p>
+        <p>Indonesia’s fires are bad, but new measures prevented them from becoming worse - Science</p>
+        <p>Forest Fire Situation in Kazakhstan - Karim Khaidarov & Arkhipov V.A.</p>
+        <p>Global Volcanism Program, 2011. Report on Nabro (Eritrea) - Wunderman R.</p>
+      </div>
+      <div class="col-sm-5 column col-sm-offset-1">
+        <h3>Attribution</h3>
+        <p> Data visualization (design & coding): Julia Janicki </p>
+        <p> Research and narratives: Sylvia Janicki & Julia Janicki </p>
+        <p> Data cleaning & processing: Julia Janicki & Lodovico Oldani </p>
+      </div>
+    </div>
+
+    <hr>
+
+    <div class="row">
+      <div class="col-sm-4">
+      </div>
+      <div class="col-sm-4">
+        <p class="text-center"> December 2019</p>
+      </div>
+      <div class="col-sm-4">
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.9.1/d3.min.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js'></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.15/lodash.min.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/animation.gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/debug.addIndicators.min.js"></script>
+<script src='./js/textures.min.js'></script>
+<script src='./js/tooltip.js'></script>
+<script src="./data/data.js" type="text/javascript"></script>
+<script src="./data/data2.js" type="text/javascript"></script>
+<script src="./data/data3.js" type="text/javascript"></script>
+<script src="./js/main.js" type="text/javascript"></script>
+</body>
+<div id="loading">
+  <img id="loading-image" src="./img/load.gif" alt="Loading..." />
+</div>

@@ -1,0 +1,1801 @@
+country,count,rank,year
+Brazil,583605,1,2010
+Democratic Republic of the Congo,461766,2,2010
+Angola,337288,3,2010
+Russia,302461,4,2010
+Zambia,217814,5,2010
+Sudan,169614,6,2010
+Bolivia,151183,7,2010
+Mozambique,149905,8,2010
+Central African Republic,149104,9,2010
+Australia,119985,10,2010
+United Republic of Tanzania,111703,11,2010
+China,102871,12,2010
+United States,98205,13,2010
+Burma,91540,14,2010
+Nigeria,77935,15,2010
+India,76699,16,2010
+Guinea,68510,17,2010
+Madagascar,64755,18,2010
+Kazakhstan,63032,19,2010
+Argentina,62682,20,2010
+Lao People's Democratic Republic,58758,21,2010
+South Africa,56409,22,2010
+Mexico,55133,23,2010
+Canada,52692,24,2010
+Ghana,52300,25,2010
+Chad,51664,26,2010
+Cameroon,51456,27,2010
+Venezuela,47070,28,2010
+Ethiopia,43047,29,2010
+Paraguay,41863,30,2010
+Cote d'Ivoire,40335,31,2010
+Mali,39103,32,2010
+Botswana,35404,33,2010
+Zimbabwe,34013,34,2010
+Cambodia,33508,35,2010
+Thailand,33319,36,2010
+None,29866,37,2010
+Iraq,28569,38,2010
+Viet Nam,25408,39,2010
+Iran (Islamic Republic of),25039,40,2010
+Colombia,24181,41,2010
+Congo,22828,42,2010
+Burkina Faso,22012,43,2010
+Indonesia,20742,44,2010
+Senegal,20606,45,2010
+Benin,20405,46,2010
+Peru,19849,47,2010
+Ukraine,19807,48,2010
+Uganda,19791,49,2010
+Sierra Leone,19191,50,2010
+Namibia,18247,51,2010
+Turkey,13653,52,2010
+Togo,12657,53,2010
+Algeria,10568,54,2010
+Malawi,10235,55,2010
+Guatemala,9946,56,2010
+Philippines,9393,57,2010
+Pakistan,8084,58,2010
+Chile,7070,59,2010
+Papua New Guinea,6607,60,2010
+Liberia,6105,61,2010
+Cuba,5750,62,2010
+Malaysia,5555,63,2010
+Italy,4817,64,2010
+Guinea-Bissau,4678,65,2010
+Nicaragua,4637,66,2010
+Honduras,4582,67,2010
+Romania,4527,68,2010
+Portugal,4245,69,2010
+Libyan Arab Jamahiriya,4106,70,2010
+Nepal,3180,71,2010
+Bangladesh,2984,72,2010
+Saudi Arabia,2827,73,2010
+Turkmenistan,2713,74,2010
+Spain,2681,75,2010
+Gabon,2546,76,2010
+Kenya,2365,77,2010
+Swaziland,2171,78,2010
+Japan,2113,79,2010
+Ecuador,1995,80,2010
+Uzbekistan,1865,81,2010
+Germany,1827,82,2010
+Bulgaria,1812,83,2010
+Guyana,1763,84,2010
+Azerbaijan,1711,85,2010
+Qatar,1711,86,2010
+Uruguay,1627,87,2010
+France,1616,88,2010
+Belarus,1594,89,2010
+Serbia,1559,90,2010
+Syrian Arab Republic,1398,91,2010
+Egypt,1383,92,2010
+Burundi,1348,93,2010
+Dominican Republic,1324,94,2010
+Panama,1324,95,2010
+Mongolia,1270,96,2010
+Mauritania,1209,97,2010
+Yemen,1204,98,2010
+Niger,1107,99,2010
+Gambia,1084,100,2010
+Sri Lanka,1077,101,2010
+Belize,1038,102,2010
+Georgia,997,103,2010
+Armenia,988,104,2010
+Costa Rica,972,105,2010
+Greece,913,106,2010
+United Kingdom,854,107,2010
+New Zealand,761,108,2010
+El Salvador,740,109,2010
+Lesotho,731,110,2010
+Poland,718,111,2010
+"Korea, Democratic People's Republic of",661,112,2010
+Fiji,657,113,2010
+Somalia,647,114,2010
+Kuwait,625,115,2010
+Afghanistan,590,116,2010
+Austria,579,117,2010
+Republic of Moldova,574,118,2010
+The former Yugoslav Republic of Macedonia,511,119,2010
+"Korea, Republic of",509,120,2010
+Bhutan,502,121,2010
+Vanuatu,488,122,2010
+Iceland,457,123,2010
+Oman,451,124,2010
+Suriname,448,125,2010
+United Arab Emirates,432,126,2010
+Kyrgyzstan,412,127,2010
+Belgium,401,128,2010
+Slovakia,376,129,2010
+French Guiana,337,130,2010
+Rwanda,327,131,2010
+Trinidad and Tobago,325,132,2010
+Hungary,312,133,2010
+Taiwan,303,134,2010
+Albania,302,135,2010
+Israel,280,136,2010
+Tunisia,279,137,2010
+Jamaica,268,138,2010
+Eritrea,247,139,2010
+Netherlands,240,140,2010
+Morocco,236,141,2010
+Haiti,228,142,2010
+Tajikistan,227,143,2010
+Ireland,215,144,2010
+Croatia,209,145,2010
+Czech Republic,207,146,2010
+Bosnia and Herzegovina,202,147,2010
+Reunion,200,148,2010
+Lebanon,167,149,2010
+Montserrat,162,150,2010
+Sweden,149,151,2010
+Finland,137,152,2010
+Equatorial Guinea,133,153,2010
+New Caledonia,108,154,2010
+Timor-Leste,103,155,2010
+Cyprus,97,156,2010
+Lithuania,96,157,2010
+Montenegro,94,158,2010
+Norway,94,159,2010
+Bahamas,90,160,2010
+Brunei Darussalam,64,161,2010
+Mauritius,64,162,2010
+Denmark,61,163,2010
+Latvia,59,164,2010
+Puerto Rico,58,165,2010
+Switzerland,47,166,2010
+Djibouti,45,167,2010
+Luxembourg,42,168,2010
+Palestine,42,169,2010
+Comoros,40,170,2010
+Barbados,30,171,2010
+Samoa,26,172,2010
+Estonia,23,173,2010
+Greenland,18,174,2010
+Maldives,18,175,2010
+Hong Kong,17,176,2010
+Jordan,17,177,2010
+Guam,16,178,2010
+French Polynesia,13,179,2010
+Sao Tome and Principe,13,180,2010
+Falkland Islands (Malvinas),12,181,2010
+Tonga,12,182,2010
+Northern Mariana Islands,10,183,2010
+Guadeloupe,9,184,2010
+Solomon Islands,9,185,2010
+Bahrain,8,186,2010
+Singapore,7,187,2010
+Slovenia,7,188,2010
+Grenada,6,189,2010
+Netherlands Antilles,6,190,2010
+United States Minor Outlying Islands,6,191,2010
+Martinique,5,192,2010
+Saint Lucia,3,193,2010
+Cape Verde,2,194,2010
+Mayotte,2,195,2010
+United States Virgin Islands,2,196,2010
+Western Sahara,2,197,2010
+American Samoa,1,198,2010
+Anguilla,1,199,2010
+Antigua and Barbuda,1,200,2010
+Australia,436469,1,2011
+Democratic Republic of the Congo,433882,2,2011
+Angola,353322,3,2011
+Russia,285340,4,2011
+Brazil,271330,5,2011
+Sudan,220250,6,2011
+Zambia,216522,7,2011
+Central African Republic,183006,8,2011
+Mozambique,142706,9,2011
+United States,123766,10,2011
+Mexico,108944,11,2011
+China,103141,12,2011
+United Republic of Tanzania,83145,13,2011
+Guinea,77975,14,2011
+Argentina,76422,15,2011
+India,72274,16,2011
+Nigeria,68402,17,2011
+Ghana,66146,18,2011
+Madagascar,66001,19,2011
+Bolivia,63306,20,2011
+Indonesia,62577,21,2011
+Chad,56008,22,2011
+Ethiopia,52138,23,2011
+Burma,50896,24,2011
+South Africa,50633,25,2011
+Cameroon,48655,26,2011
+Cote d'Ivoire,48136,27,2011
+Botswana,45820,28,2011
+Paraguay,43362,29,2011
+Canada,39031,30,2011
+Zimbabwe,36355,31,2011
+Mali,35495,32,2011
+Cambodia,34693,33,2011
+Iraq,32771,34,2011
+Namibia,32088,35,2011
+Venezuela,29400,36,2011
+Kazakhstan,27849,37,2011
+Ukraine,27212,38,2011
+None,26873,39,2011
+Lao People's Democratic Republic,25965,40,2011
+Congo,23827,41,2011
+Senegal,23125,42,2011
+Sierra Leone,22002,43,2011
+Burkina Faso,20092,44,2011
+Benin,19437,45,2011
+Iran (Islamic Republic of),19321,46,2011
+Thailand,19265,47,2011
+Colombia,18732,48,2011
+Turkey,18416,49,2011
+Uganda,17598,50,2011
+Viet Nam,16149,51,2011
+Togo,14939,52,2011
+Honduras,11810,53,2011
+Guatemala,11620,54,2011
+Peru,11155,55,2011
+Malawi,11095,56,2011
+Cuba,9715,57,2011
+Romania,9628,58,2011
+Algeria,8696,59,2011
+Pakistan,8483,60,2011
+Chile,7579,61,2011
+Liberia,6745,62,2011
+Italy,6678,63,2011
+Guinea-Bissau,5981,64,2011
+Spain,5454,65,2011
+Papua New Guinea,5098,66,2011
+Serbia,4807,67,2011
+Nicaragua,4492,68,2011
+Ecuador,4110,69,2011
+Malaysia,3793,70,2011
+Bulgaria,3705,71,2011
+"Korea, Democratic People's Republic of",3651,72,2011
+Philippines,3208,73,2011
+Mongolia,3066,74,2011
+Portugal,3037,75,2011
+Gabon,2956,76,2011
+Bangladesh,2791,77,2011
+Kenya,2747,78,2011
+Belize,2731,79,2011
+Greece,2659,80,2011
+Libyan Arab Jamahiriya,2553,81,2011
+Germany,2421,82,2011
+Turkmenistan,2200,83,2011
+Uzbekistan,2170,84,2011
+Dominican Republic,2132,85,2011
+France,2091,86,2011
+Saudi Arabia,2021,87,2011
+Eritrea,1958,88,2011
+Nepal,1882,89,2011
+Swaziland,1836,90,2011
+Japan,1748,91,2011
+Albania,1491,92,2011
+Croatia,1476,93,2011
+Republic of Moldova,1424,94,2011
+Uruguay,1375,95,2011
+Sri Lanka,1364,96,2011
+Gambia,1360,97,2011
+Azerbaijan,1349,98,2011
+The former Yugoslav Republic of Macedonia,1306,99,2011
+Guyana,1304,100,2011
+Hungary,1299,101,2011
+Bosnia and Herzegovina,1273,102,2011
+Egypt,1256,103,2011
+United Kingdom,1245,104,2011
+Panama,1118,105,2011
+Qatar,1078,106,2011
+Poland,1008,107,2011
+Belarus,936,108,2011
+Niger,873,109,2011
+Costa Rica,799,110,2011
+Syrian Arab Republic,786,111,2011
+Austria,757,112,2011
+Yemen,733,113,2011
+Timor-Leste,711,114,2011
+Kuwait,710,115,2011
+Montenegro,706,116,2011
+El Salvador,695,117,2011
+New Zealand,648,118,2011
+Kyrgyzstan,617,119,2011
+"Korea, Republic of",596,120,2011
+Vanuatu,541,121,2011
+Mauritania,540,122,2011
+Bahamas,533,123,2011
+Georgia,473,124,2011
+Belgium,472,125,2011
+Somalia,424,126,2011
+Slovakia,422,127,2011
+Oman,402,128,2011
+Morocco,384,129,2011
+Suriname,371,130,2011
+Netherlands,361,131,2011
+Ireland,357,132,2011
+Tunisia,354,133,2011
+Burundi,342,134,2011
+Haiti,340,135,2011
+Afghanistan,335,136,2011
+Bhutan,327,137,2011
+Sweden,295,138,2011
+Armenia,271,139,2011
+Czech Republic,269,140,2011
+Lesotho,250,141,2011
+Taiwan,232,142,2011
+United Arab Emirates,227,143,2011
+Finland,222,144,2011
+Jamaica,219,145,2011
+French Guiana,203,146,2011
+Equatorial Guinea,164,147,2011
+New Caledonia,149,148,2011
+Norway,117,149,2011
+Puerto Rico,115,150,2011
+Tajikistan,103,151,2011
+Cyprus,91,152,2011
+Israel,91,153,2011
+Lithuania,82,154,2011
+Switzerland,80,155,2011
+Fiji,70,156,2011
+Trinidad and Tobago,69,157,2011
+Reunion,68,158,2011
+Latvia,61,159,2011
+Rwanda,61,160,2011
+Denmark,59,161,2011
+Jordan,46,162,2011
+Samoa,46,163,2011
+Lebanon,39,164,2011
+Luxembourg,39,165,2011
+Mauritius,32,166,2011
+Falkland Islands (Malvinas),28,167,2011
+Brunei Darussalam,27,168,2011
+Palestine,24,169,2011
+Estonia,22,170,2011
+Comoros,21,171,2011
+Djibouti,21,172,2011
+French Polynesia,21,173,2011
+Greenland,19,174,2011
+Bahrain,18,175,2011
+Solomon Islands,18,176,2011
+Maldives,17,177,2011
+Slovenia,16,178,2011
+Tonga,15,179,2011
+Hong Kong,12,180,2011
+Cayman Islands,8,181,2011
+Netherlands Antilles,8,182,2011
+Barbados,6,183,2011
+Northern Mariana Islands,6,184,2011
+Montserrat,5,185,2011
+Saint Kitts and Nevis,5,186,2011
+Sao Tome and Principe,5,187,2011
+Singapore,5,188,2011
+United States Virgin Islands,5,189,2011
+Saint Lucia,3,190,2011
+American Samoa,2,191,2011
+Antigua and Barbuda,2,192,2011
+Cape Verde,2,193,2011
+French Southern and Antarctic Lands,2,194,2011
+Guadeloupe,2,195,2011
+Guam,2,196,2011
+United States Minor Outlying Islands,2,197,2011
+Malta,1,198,2011
+Niue,1,199,2011
+Turks and Caicos Islands,1,200,2011
+Russia,483738,1,2012
+Australia,474251,2,2012
+Democratic Republic of the Congo,413440,3,2012
+Brazil,402055,4,2012
+Angola,313669,5,2012
+Zambia,218784,6,2012
+Sudan,209816,7,2012
+Mozambique,149839,8,2012
+Central African Republic,146426,9,2012
+United States,137242,10,2012
+United Republic of Tanzania,95561,11,2012
+China,95397,12,2012
+India,93134,13,2012
+Burma,81025,14,2012
+Guinea,79794,15,2012
+Indonesia,70877,16,2012
+Mexico,66671,17,2012
+Nigeria,66141,18,2012
+Argentina,61888,19,2012
+Madagascar,59597,20,2012
+Kazakhstan,58455,21,2012
+Chad,57322,22,2012
+Ethiopia,55191,23,2012
+South Africa,48096,24,2012
+Ghana,47432,25,2012
+Cameroon,43978,26,2012
+Cote d'Ivoire,43179,27,2012
+Bolivia,41747,28,2012
+Lao People's Democratic Republic,40186,29,2012
+Canada,40141,30,2012
+Iraq,37273,31,2012
+Paraguay,36775,32,2012
+Venezuela,35899,33,2012
+Namibia,34800,34,2012
+Sierra Leone,33973,35,2012
+Thailand,30725,36,2012
+Cambodia,30659,37,2012
+Mali,30447,38,2012
+Zimbabwe,27732,39,2012
+Uganda,26764,40,2012
+None,26751,41,2012
+Colombia,22840,42,2012
+Congo,20988,43,2012
+Viet Nam,20252,44,2012
+Ukraine,19668,45,2012
+Peru,18604,46,2012
+Benin,18491,47,2012
+Algeria,15920,48,2012
+Senegal,15836,49,2012
+Iran (Islamic Republic of),14991,50,2012
+Burkina Faso,14035,51,2012
+Botswana,13994,52,2012
+Pakistan,12253,53,2012
+Malawi,12192,54,2012
+Liberia,12075,55,2012
+Togo,10513,56,2012
+Mongolia,9525,57,2012
+Guatemala,9102,58,2012
+Romania,8490,59,2012
+Italy,7901,60,2012
+Chile,7406,61,2012
+Turkey,7059,62,2012
+Spain,6191,63,2012
+Kenya,6076,64,2012
+Guinea-Bissau,5664,65,2012
+Malaysia,5577,66,2012
+Cuba,5487,67,2012
+Papua New Guinea,5366,68,2012
+Libyan Arab Jamahiriya,4116,69,2012
+Bulgaria,3932,70,2012
+Ecuador,3783,71,2012
+Albania,3776,72,2012
+Serbia,3715,73,2012
+Honduras,3680,74,2012
+Turkmenistan,3558,75,2012
+Portugal,3554,76,2012
+Nepal,3518,77,2012
+Bosnia and Herzegovina,3474,78,2012
+Bangladesh,3419,79,2012
+Philippines,3266,80,2012
+Nicaragua,3174,81,2012
+Gabon,2553,82,2012
+Saudi Arabia,2499,83,2012
+Uzbekistan,2376,84,2012
+France,2176,85,2012
+Greece,2100,86,2012
+Guyana,1948,87,2012
+Swaziland,1930,88,2012
+Germany,1872,89,2012
+Dominican Republic,1851,90,2012
+Sri Lanka,1816,91,2012
+The former Yugoslav Republic of Macedonia,1677,92,2012
+Japan,1639,93,2012
+Croatia,1607,94,2012
+Panama,1572,95,2012
+Montenegro,1563,96,2012
+Belarus,1496,97,2012
+Hungary,1415,98,2012
+Syrian Arab Republic,1256,99,2012
+Uruguay,1256,100,2012
+Egypt,1214,101,2012
+Poland,1207,102,2012
+Costa Rica,1206,103,2012
+Azerbaijan,1079,104,2012
+Kuwait,1072,105,2012
+Niger,960,106,2012
+"Korea, Democratic People's Republic of",954,107,2012
+Suriname,891,108,2012
+Qatar,890,109,2012
+Gambia,869,110,2012
+Belize,863,111,2012
+El Salvador,862,112,2012
+United Kingdom,862,113,2012
+Timor-Leste,827,114,2012
+Somalia,746,115,2012
+Georgia,688,116,2012
+Oman,671,117,2012
+Republic of Moldova,663,118,2012
+Austria,646,119,2012
+Burundi,559,120,2012
+New Zealand,550,121,2012
+"Korea, Republic of",547,122,2012
+Bhutan,508,123,2012
+Yemen,506,124,2012
+Slovakia,498,125,2012
+French Guiana,490,126,2012
+Mauritania,468,127,2012
+Vanuatu,440,128,2012
+Belgium,436,129,2012
+Morocco,403,130,2012
+Tunisia,364,131,2012
+Kyrgyzstan,363,132,2012
+Armenia,354,133,2012
+Haiti,346,134,2012
+Eritrea,344,135,2012
+Netherlands,254,136,2012
+Jamaica,236,137,2012
+Fiji,230,138,2012
+Afghanistan,218,139,2012
+United Arab Emirates,218,140,2012
+Taiwan,206,141,2012
+Czech Republic,201,142,2012
+Rwanda,178,143,2012
+Bahamas,160,144,2012
+Lesotho,133,145,2012
+Sweden,133,146,2012
+Finland,122,147,2012
+Puerto Rico,104,148,2012
+Cyprus,98,149,2012
+Israel,95,150,2012
+Equatorial Guinea,92,151,2012
+Falkland Islands (Malvinas),87,152,2012
+Tajikistan,87,153,2012
+Norway,78,154,2012
+Switzerland,77,155,2012
+Lithuania,73,156,2012
+Denmark,63,157,2012
+Trinidad and Tobago,61,158,2012
+Lebanon,56,159,2012
+Ireland,52,160,2012
+Latvia,49,161,2012
+New Caledonia,46,162,2012
+Solomon Islands,42,163,2012
+Luxembourg,34,164,2012
+Mauritius,34,165,2012
+Samoa,31,166,2012
+Comoros,24,167,2012
+Greenland,23,168,2012
+Brunei Darussalam,22,169,2012
+Slovenia,22,170,2012
+French Polynesia,19,171,2012
+Palestine,19,172,2012
+Maldives,14,173,2012
+Northern Mariana Islands,14,174,2012
+Sao Tome and Principe,12,175,2012
+Jordan,11,176,2012
+Estonia,10,177,2012
+Reunion,9,178,2012
+Guadeloupe,8,179,2012
+Djibouti,7,180,2012
+Singapore,7,181,2012
+Cape Verde,6,182,2012
+Saint Kitts and Nevis,6,183,2012
+Barbados,5,184,2012
+Guam,4,185,2012
+Hong Kong,4,186,2012
+Netherlands Antilles,4,187,2012
+Tonga,4,188,2012
+Montserrat,3,189,2012
+American Samoa,2,190,2012
+Guernsey,2,191,2012
+Iceland,2,192,2012
+Kiribati,2,193,2012
+Niue,2,194,2012
+Saint Helena,2,195,2012
+Saint Lucia,2,196,2012
+United States Minor Outlying Islands,2,197,2012
+Aruba,1,198,2012
+French Southern and Antarctic Lands,1,199,2012
+Heard Island and McDonald Islands,1,200,2012
+Democratic Republic of the Congo,468814,1,2013
+Angola,342622,2,2013
+Russia,235882,3,2013
+Brazil,220358,4,2013
+Zambia,216846,5,2013
+Sudan,207639,6,2013
+Australia,189749,7,2013
+Mozambique,148783,8,2013
+Central African Republic,146385,9,2013
+China,117727,10,2013
+United States,102336,11,2013
+United Republic of Tanzania,91265,12,2013
+Mexico,81672,13,2013
+Guinea,77586,14,2013
+Madagascar,71211,15,2013
+India,71071,16,2013
+Burma,69999,17,2013
+Canada,67754,18,2013
+Argentina,66508,19,2013
+Nigeria,57365,20,2013
+Venezuela,56014,21,2013
+Ethiopia,53984,22,2013
+Indonesia,53547,23,2013
+Ghana,53044,24,2013
+Chad,50406,25,2013
+Paraguay,49679,26,2013
+South Africa,49119,27,2013
+Cambodia,45109,28,2013
+Cote d'Ivoire,44006,29,2013
+Lao People's Democratic Republic,39969,30,2013
+Cameroon,37953,31,2013
+Iraq,37817,32,2013
+Mali,33988,33,2013
+Thailand,31336,34,2013
+Sierra Leone,30493,35,2013
+Bolivia,29730,36,2013
+Congo,25114,37,2013
+Uganda,24990,38,2013
+Colombia,23888,39,2013
+Zimbabwe,22193,40,2013
+Kazakhstan,20264,41,2013
+Benin,18084,42,2013
+Senegal,17967,43,2013
+Viet Nam,17433,44,2013
+Iran (Islamic Republic of),15205,45,2013
+Namibia,15141,46,2013
+Burkina Faso,14931,47,2013
+Guatemala,13887,48,2013
+Ukraine,13463,49,2013
+Peru,12277,50,2013
+Botswana,12083,51,2013
+Togo,12056,52,2013
+Turkey,11498,53,2013
+Malawi,10514,54,2013
+Algeria,9662,55,2013
+Pakistan,9139,56,2013
+Honduras,9047,57,2013
+Chile,6706,58,2013
+Liberia,6648,59,2013
+Cuba,6274,60,2013
+Nicaragua,6145,61,2013
+Papua New Guinea,5037,62,2013
+Guinea-Bissau,4550,63,2013
+Malaysia,4527,64,2013
+Portugal,4448,65,2013
+Ecuador,4384,66,2013
+Philippines,4162,67,2013
+Italy,4105,68,2013
+Turkmenistan,3728,69,2013
+Spain,3433,70,2013
+Romania,3399,71,2013
+Uzbekistan,3098,72,2013
+Bangladesh,3080,73,2013
+Kenya,3063,74,2013
+Libyan Arab Jamahiriya,2836,75,2013
+Syrian Arab Republic,2752,76,2013
+Gabon,2689,77,2013
+Bulgaria,2514,78,2013
+Nepal,2501,79,2013
+Saudi Arabia,2271,80,2013
+Dominican Republic,2111,81,2013
+Belize,2053,82,2013
+Mongolia,2007,83,2013
+Japan,1957,84,2013
+Germany,1859,85,2013
+Panama,1831,86,2013
+Greece,1813,87,2013
+Serbia,1791,88,2013
+Swaziland,1775,89,2013
+Costa Rica,1721,90,2013
+Egypt,1673,91,2013
+France,1499,92,2013
+El Salvador,1487,93,2013
+Guyana,1480,94,2013
+Azerbaijan,1239,95,2013
+"Korea, Democratic People's Republic of",1208,96,2013
+Uruguay,1195,97,2013
+Sri Lanka,1137,98,2013
+Kuwait,1082,99,2013
+Gambia,1075,100,2013
+Belarus,961,101,2013
+Niger,948,102,2013
+Burundi,848,103,2013
+The former Yugoslav Republic of Macedonia,846,104,2013
+Somalia,792,105,2013
+New Zealand,783,106,2013
+Republic of Moldova,695,107,2013
+Lesotho,637,108,2013
+Poland,629,109,2013
+Qatar,610,110,2013
+"Korea, Republic of",587,111,2013
+Vanuatu,572,112,2013
+Austria,569,113,2013
+Yemen,549,114,2013
+Oman,540,115,2013
+United Kingdom,532,116,2013
+Georgia,511,117,2013
+Belgium,472,118,2013
+Mauritania,446,119,2013
+Armenia,443,120,2013
+Kyrgyzstan,410,121,2013
+Suriname,398,122,2013
+Bahamas,396,123,2013
+Hungary,388,124,2013
+United Arab Emirates,382,125,2013
+Tunisia,377,126,2013
+Rwanda,350,127,2013
+Slovakia,348,128,2013
+Fiji,335,129,2013
+Haiti,333,130,2013
+Timor-Leste,321,131,2013
+Netherlands,305,132,2013
+Morocco,297,133,2013
+Taiwan,290,134,2013
+Bhutan,268,135,2013
+Bosnia and Herzegovina,262,136,2013
+Jamaica,262,137,2013
+Tajikistan,253,138,2013
+Sweden,243,139,2013
+Afghanistan,218,140,2013
+French Guiana,217,141,2013
+Finland,212,142,2013
+Croatia,205,143,2013
+Albania,185,144,2013
+Eritrea,184,145,2013
+Czech Republic,183,146,2013
+Equatorial Guinea,156,147,2013
+Trinidad and Tobago,137,148,2013
+Israel,135,149,2013
+Lebanon,135,150,2013
+New Caledonia,133,151,2013
+Puerto Rico,128,152,2013
+Cyprus,118,153,2013
+Norway,111,154,2013
+Ireland,89,155,2013
+Denmark,82,156,2013
+Montenegro,80,157,2013
+Lithuania,66,158,2013
+Mauritius,64,159,2013
+Latvia,58,160,2013
+Switzerland,42,161,2013
+Comoros,35,162,2013
+Luxembourg,35,163,2013
+Palestine,27,164,2013
+Falkland Islands (Malvinas),23,165,2013
+Jordan,23,166,2013
+Solomon Islands,22,167,2013
+Estonia,21,168,2013
+French Polynesia,21,169,2013
+Slovenia,21,170,2013
+Brunei Darussalam,19,171,2013
+Samoa,18,172,2013
+Barbados,17,173,2013
+Greenland,15,174,2013
+Maldives,15,175,2013
+Tonga,14,176,2013
+Djibouti,13,177,2013
+Hong Kong,10,178,2013
+Reunion,10,179,2013
+Guam,9,180,2013
+Heard Island and McDonald Islands,9,181,2013
+Northern Mariana Islands,9,182,2013
+Singapore,9,183,2013
+Montserrat,6,184,2013
+Netherlands Antilles,5,185,2013
+Saint Kitts and Nevis,5,186,2013
+Bahrain,4,187,2013
+Cape Verde,4,188,2013
+Guadeloupe,4,189,2013
+Sao Tome and Principe,4,190,2013
+United States Minor Outlying Islands,4,191,2013
+Iceland,3,192,2013
+Mayotte,3,193,2013
+Cayman Islands,2,194,2013
+Andorra,1,195,2013
+Antigua and Barbuda,1,196,2013
+Cook Islands,1,197,2013
+Isle of Man,1,198,2013
+Jersey,1,199,2013
+Malta,1,200,2013
+Democratic Republic of the Congo,424430,1,2014
+Russia,346474,2,2014
+Brazil,311336,3,2014
+Angola,306760,4,2014
+Australia,256358,5,2014
+Sudan,217817,6,2014
+Zambia,199773,7,2014
+Central African Republic,160273,8,2014
+Mozambique,153742,9,2014
+China,150539,10,2014
+Indonesia,114811,11,2014
+United States,98786,12,2014
+Canada,79175,13,2014
+Guinea,77750,14,2014
+India,76377,15,2014
+United Republic of Tanzania,76014,16,2014
+Burma,68367,17,2014
+Madagascar,60310,18,2014
+Venezuela,59104,19,2014
+Nigeria,57430,20,2014
+Ukraine,51633,21,2014
+South Africa,49697,22,2014
+Ghana,47092,23,2014
+Ethiopia,46642,24,2014
+Lao People's Democratic Republic,42564,25,2014
+Chad,41929,26,2014
+Mexico,41030,27,2014
+Kazakhstan,40496,28,2014
+Cambodia,40202,29,2014
+Iraq,40074,30,2014
+Cameroon,39290,31,2014
+Argentina,36806,32,2014
+Sierra Leone,35260,33,2014
+Mali,30804,34,2014
+Thailand,30786,35,2014
+Cote d'Ivoire,30274,36,2014
+Paraguay,29756,37,2014
+Colombia,29631,38,2014
+Bolivia,28747,39,2014
+Zimbabwe,24467,40,2014
+Viet Nam,23176,41,2014
+Congo,18940,42,2014
+Uganda,17841,43,2014
+Senegal,17548,44,2014
+Benin,16038,45,2014
+Iran (Islamic Republic of),15920,46,2014
+Burkina Faso,12600,47,2014
+Namibia,11566,48,2014
+Algeria,11287,49,2014
+Liberia,11056,50,2014
+Peru,10701,51,2014
+Pakistan,10369,52,2014
+Togo,9365,53,2014
+Malawi,8882,54,2014
+Malaysia,8440,55,2014
+Iceland,8236,56,2014
+Honduras,8118,57,2014
+Guatemala,7685,58,2014
+Botswana,7298,59,2014
+Chile,7146,60,2014
+Papua New Guinea,6779,61,2014
+Turkey,6767,62,2014
+Nicaragua,5481,63,2014
+Philippines,5395,64,2014
+Guinea-Bissau,5187,65,2014
+Italy,4900,66,2014
+"Korea, Democratic People's Republic of",4631,67,2014
+Cuba,4547,68,2014
+Romania,4295,69,2014
+Turkmenistan,3443,70,2014
+Nepal,3402,71,2014
+Belarus,3285,72,2014
+Mongolia,3203,73,2014
+Uzbekistan,3155,74,2014
+Bangladesh,2930,75,2014
+Spain,2601,76,2014
+Libyan Arab Jamahiriya,2554,77,2014
+Kenya,2517,78,2014
+Ecuador,2374,79,2014
+Swaziland,2349,80,2014
+Saudi Arabia,2287,81,2014
+Germany,2246,82,2014
+Japan,2113,83,2014
+Gabon,2088,84,2014
+France,1936,85,2014
+Guyana,1861,86,2014
+Republic of Moldova,1820,87,2014
+Panama,1744,88,2014
+Bulgaria,1706,89,2014
+Egypt,1678,90,2014
+Kuwait,1528,91,2014
+Dominican Republic,1518,92,2014
+Greece,1373,93,2014
+Sri Lanka,1369,94,2014
+Costa Rica,1340,95,2014
+El Salvador,1211,96,2014
+Timor-Leste,1147,97,2014
+Belize,1127,98,2014
+Poland,997,99,2014
+Fiji,990,100,2014
+Uruguay,873,101,2014
+Azerbaijan,828,102,2014
+New Zealand,827,103,2014
+Syrian Arab Republic,808,104,2014
+Oman,800,105,2014
+Niger,769,106,2014
+"Korea, Republic of",761,107,2014
+Serbia,757,108,2014
+Gambia,750,109,2014
+Sweden,692,110,2014
+Somalia,671,111,2014
+Suriname,652,112,2014
+Austria,627,113,2014
+United Kingdom,624,114,2014
+Lesotho,622,115,2014
+Portugal,622,116,2014
+Georgia,603,117,2014
+Vanuatu,601,118,2014
+Hungary,591,119,2014
+The former Yugoslav Republic of Macedonia,586,120,2014
+Tunisia,581,121,2014
+Qatar,578,122,2014
+Burundi,522,123,2014
+Cape Verde,507,124,2014
+Belgium,493,125,2014
+Yemen,444,126,2014
+Bhutan,403,127,2014
+United Arab Emirates,399,128,2014
+Kyrgyzstan,394,129,2014
+Slovakia,358,130,2014
+Taiwan,335,131,2014
+Bosnia and Herzegovina,308,132,2014
+French Guiana,282,133,2014
+Armenia,281,134,2014
+Netherlands,277,135,2014
+Eritrea,267,136,2014
+Haiti,259,137,2014
+Czech Republic,256,138,2014
+Equatorial Guinea,250,139,2014
+Jamaica,237,140,2014
+New Caledonia,215,141,2014
+Mauritania,210,142,2014
+Morocco,193,143,2014
+Afghanistan,189,144,2014
+Croatia,177,145,2014
+Tajikistan,153,146,2014
+Bahamas,149,147,2014
+Rwanda,137,148,2014
+Trinidad and Tobago,137,149,2014
+Norway,128,150,2014
+Finland,124,151,2014
+Albania,121,152,2014
+Latvia,110,153,2014
+Puerto Rico,91,154,2014
+Lithuania,83,155,2014
+Israel,82,156,2014
+Djibouti,80,157,2014
+Denmark,79,158,2014
+Mauritius,69,159,2014
+Switzerland,68,160,2014
+Montenegro,65,161,2014
+Cyprus,55,162,2014
+Comoros,42,163,2014
+Lebanon,40,164,2014
+Barbados,33,165,2014
+Jordan,33,166,2014
+Brunei Darussalam,32,167,2014
+Luxembourg,31,168,2014
+Ireland,29,169,2014
+Samoa,28,170,2014
+Estonia,26,171,2014
+Palestine,24,172,2014
+Solomon Islands,24,173,2014
+Greenland,17,174,2014
+Guam,14,175,2014
+French Polynesia,13,176,2014
+Saint Kitts and Nevis,13,177,2014
+Tonga,13,178,2014
+Maldives,12,179,2014
+Reunion,12,180,2014
+Netherlands Antilles,11,181,2014
+Antigua and Barbuda,8,182,2014
+Guadeloupe,8,183,2014
+Singapore,8,184,2014
+Slovenia,8,185,2014
+Hong Kong,7,186,2014
+United States Minor Outlying Islands,7,187,2014
+Falkland Islands (Malvinas),6,188,2014
+Martinique,5,189,2014
+Kiribati,3,190,2014
+Northern Mariana Islands,3,191,2014
+Western Sahara,3,192,2014
+Bahrain,2,193,2014
+Heard Island and McDonald Islands,2,194,2014
+Sao Tome and Principe,2,195,2014
+American Samoa,1,196,2014
+British Virgin Islands,1,197,2014
+Cayman Islands,1,198,2014
+Montserrat,1,199,2014
+Niue,1,200,2014
+Democratic Republic of the Congo,475694,1,2015
+Brazil,419815,2,2015
+Angola,343960,3,2015
+Russia,247294,4,2015
+Sudan,241810,5,2015
+Australia,238736,6,2015
+Zambia,219162,7,2015
+Central African Republic,186975,8,2015
+Indonesia,178289,9,2015
+Mozambique,153714,10,2015
+United States,146969,11,2015
+China,122772,12,2015
+United Republic of Tanzania,91824,13,2015
+Canada,73873,14,2015
+Guinea,70875,15,2015
+India,68428,16,2015
+Nigeria,65848,17,2015
+Madagascar,60448,18,2015
+Burma,58544,19,2015
+Ethiopia,57959,20,2015
+Mexico,55735,21,2015
+Ghana,54784,22,2015
+Venezuela,50152,23,2015
+Iraq,49692,24,2015
+Ukraine,48807,25,2015
+Argentina,45110,26,2015
+Chad,44679,27,2015
+Cambodia,44202,28,2015
+Kazakhstan,42578,29,2015
+Lao People's Democratic Republic,41993,30,2015
+Bolivia,41034,31,2015
+Cameroon,40512,32,2015
+South Africa,37614,33,2015
+Sierra Leone,35744,34,2015
+Cote d'Ivoire,32009,35,2015
+Paraguay,28742,36,2015
+Thailand,27781,37,2015
+Zimbabwe,26754,38,2015
+Mali,26581,39,2015
+Colombia,24394,40,2015
+Uganda,23094,41,2015
+Viet Nam,22304,42,2015
+Congo,21727,43,2015
+Papua New Guinea,21193,44,2015
+Turkey,18037,45,2015
+Liberia,16751,46,2015
+Iran (Islamic Republic of),15050,47,2015
+Peru,14845,48,2015
+Benin,14673,49,2015
+Togo,12801,50,2015
+Namibia,11838,51,2015
+Senegal,11675,52,2015
+Burkina Faso,11582,53,2015
+Malawi,9902,54,2015
+Chile,9559,55,2015
+Guatemala,9242,56,2015
+Algeria,9137,57,2015
+Pakistan,8661,58,2015
+Botswana,8355,59,2015
+Mongolia,8255,60,2015
+Philippines,7493,61,2015
+Cuba,7325,62,2015
+Honduras,7107,63,2015
+Malaysia,5731,64,2015
+Guinea-Bissau,5541,65,2015
+Italy,4267,66,2015
+Belarus,4210,67,2015
+Nicaragua,3776,68,2015
+Kenya,3718,69,2015
+Romania,3549,70,2015
+Ecuador,3214,71,2015
+Spain,3170,72,2015
+Saudi Arabia,2899,73,2015
+Guyana,2808,74,2015
+Azerbaijan,2562,75,2015
+Libyan Arab Jamahiriya,2435,76,2015
+Turkmenistan,2357,77,2015
+Germany,2355,78,2015
+Gabon,2296,79,2015
+Panama,2239,80,2015
+Japan,2195,81,2015
+"Korea, Democratic People's Republic of",2169,82,2015
+Syrian Arab Republic,2118,83,2015
+Iceland,2092,84,2015
+France,2065,85,2015
+Portugal,2059,86,2015
+Uruguay,2011,87,2015
+Uzbekistan,1958,88,2015
+Egypt,1778,89,2015
+Bulgaria,1711,90,2015
+Bangladesh,1659,91,2015
+Belize,1609,92,2015
+Dominican Republic,1567,93,2015
+El Salvador,1561,94,2015
+Costa Rica,1546,95,2015
+Greece,1343,96,2015
+Poland,1181,97,2015
+Swaziland,1154,98,2015
+Serbia,1099,99,2015
+Reunion,1074,100,2015
+Nepal,1055,101,2015
+Burundi,1048,102,2015
+Republic of Moldova,973,103,2015
+United Kingdom,848,104,2015
+Suriname,835,105,2015
+Georgia,825,106,2015
+New Zealand,810,107,2015
+"Korea, Republic of",756,108,2015
+Timor-Leste,735,109,2015
+Oman,732,110,2015
+The former Yugoslav Republic of Macedonia,713,111,2015
+Vanuatu,712,112,2015
+Sri Lanka,670,113,2015
+Niger,636,114,2015
+Bosnia and Herzegovina,633,115,2015
+United Arab Emirates,617,116,2015
+Austria,599,117,2015
+Kuwait,590,118,2015
+Gambia,520,119,2015
+Fiji,506,120,2015
+Belgium,495,121,2015
+Montenegro,455,122,2015
+Qatar,454,123,2015
+French Guiana,445,124,2015
+Albania,382,125,2015
+Hungary,373,126,2015
+Slovakia,359,127,2015
+Croatia,354,128,2015
+Netherlands,334,129,2015
+Rwanda,326,130,2015
+Somalia,319,131,2015
+Kyrgyzstan,313,132,2015
+Jamaica,306,133,2015
+Bhutan,302,134,2015
+Taiwan,298,135,2015
+Haiti,276,136,2015
+Eritrea,273,137,2015
+Czech Republic,252,138,2015
+Lesotho,242,139,2015
+Equatorial Guinea,239,140,2015
+Ireland,234,141,2015
+Tunisia,223,142,2015
+Armenia,218,143,2015
+Morocco,218,144,2015
+New Caledonia,208,145,2015
+Bahamas,205,146,2015
+Sweden,197,147,2015
+Yemen,196,148,2015
+Mauritania,133,149,2015
+Trinidad and Tobago,118,150,2015
+Afghanistan,110,151,2015
+Lithuania,108,152,2015
+Finland,101,153,2015
+Denmark,99,154,2015
+Israel,91,155,2015
+Tajikistan,88,156,2015
+Jordan,81,157,2015
+Switzerland,74,158,2015
+Latvia,71,159,2015
+Puerto Rico,71,160,2015
+Norway,70,161,2015
+Cyprus,64,162,2015
+Brunei Darussalam,60,163,2015
+Lebanon,60,164,2015
+Djibouti,53,165,2015
+Luxembourg,50,166,2015
+Palestine,42,167,2015
+Comoros,39,168,2015
+Samoa,36,169,2015
+Mauritius,33,170,2015
+Solomon Islands,28,171,2015
+Cape Verde,27,172,2015
+Greenland,27,173,2015
+Estonia,23,174,2015
+Hong Kong,19,175,2015
+Guadeloupe,18,176,2015
+Saint Kitts and Nevis,18,177,2015
+French Polynesia,15,178,2015
+Maldives,13,179,2015
+Barbados,11,180,2015
+United States Minor Outlying Islands,11,181,2015
+Martinique,9,182,2015
+Guam,8,183,2015
+Netherlands Antilles,8,184,2015
+Slovenia,8,185,2015
+Tonga,8,186,2015
+United States Virgin Islands,8,187,2015
+Falkland Islands (Malvinas),7,188,2015
+Bahrain,6,189,2015
+Singapore,5,190,2015
+Antigua and Barbuda,4,191,2015
+Northern Mariana Islands,4,192,2015
+Palau,3,193,2015
+Saint Helena,3,194,2015
+Dominica,2,195,2015
+Mayotte,2,196,2015
+Montserrat,2,197,2015
+Saint Lucia,2,198,2015
+Sao Tome and Principe,2,199,2015
+American Samoa,1,200,2015
+Democratic Republic of the Congo,512527,1,2016
+Angola,348306,2,2016
+Brazil,334443,3,2016
+Russia,293798,4,2016
+Sudan,236856,5,2016
+Zambia,214905,6,2016
+Central African Republic,196897,7,2016
+Australia,158925,8,2016
+Mozambique,132594,9,2016
+United States,112656,10,2016
+United Republic of Tanzania,97692,11,2016
+China,97510,12,2016
+India,88837,13,2016
+Madagascar,75790,14,2016
+Guinea,74843,15,2016
+Nigeria,73020,16,2016
+Bolivia,68304,17,2016
+Mexico,64663,18,2016
+Chad,56864,19,2016
+Argentina,55358,20,2016
+Iraq,53505,21,2016
+Ethiopia,52573,22,2016
+Burma,51807,23,2016
+Venezuela,50218,24,2016
+Cameroon,45230,25,2016
+Ghana,45093,26,2016
+Lao People's Democratic Republic,42260,27,2016
+Paraguay,40170,28,2016
+Cambodia,37317,29,2016
+Mali,33542,30,2016
+Cote d'Ivoire,31546,31,2016
+Colombia,30339,32,2016
+South Africa,29991,33,2016
+Thailand,29770,34,2016
+Canada,26949,35,2016
+Uganda,26583,36,2016
+Iran (Islamic Republic of),26205,37,2016
+Ukraine,25825,38,2016
+Congo,24443,39,2016
+Sierra Leone,24371,40,2016
+Indonesia,23982,41,2016
+Kazakhstan,22749,42,2016
+Viet Nam,20753,43,2016
+Peru,19311,44,2016
+Senegal,18815,45,2016
+Zimbabwe,18410,46,2016
+Benin,13787,47,2016
+Turkey,13554,48,2016
+Burkina Faso,13524,49,2016
+Pakistan,10950,50,2016
+Namibia,10182,51,2016
+Guatemala,10162,52,2016
+Algeria,10065,53,2016
+Malawi,9872,54,2016
+Liberia,9089,55,2016
+Togo,8886,56,2016
+Honduras,8380,57,2016
+Nepal,7657,58,2016
+Philippines,7262,59,2016
+Chile,7081,60,2016
+Ecuador,5999,61,2016
+Botswana,5925,62,2016
+Malaysia,5620,63,2016
+Nicaragua,5435,64,2016
+Guinea-Bissau,5212,65,2016
+Italy,4973,66,2016
+Portugal,4801,67,2016
+Papua New Guinea,4254,68,2016
+Cuba,4139,69,2016
+Romania,3951,70,2016
+Turkmenistan,3315,71,2016
+Spain,3214,72,2016
+Saudi Arabia,2878,73,2016
+Egypt,2756,74,2016
+Bulgaria,2545,75,2016
+Kenya,2532,76,2016
+Gabon,2488,77,2016
+Uzbekistan,2392,78,2016
+Germany,2217,79,2016
+Japan,2215,80,2016
+Panama,2211,81,2016
+Guyana,2166,82,2016
+Libyan Arab Jamahiriya,2032,83,2016
+Bangladesh,1911,84,2016
+France,1901,85,2016
+Greece,1687,86,2016
+Costa Rica,1660,87,2016
+Mongolia,1618,88,2016
+Azerbaijan,1614,89,2016
+Syrian Arab Republic,1545,90,2016
+Sri Lanka,1465,91,2016
+Belize,1153,92,2016
+Republic of Moldova,1132,93,2016
+Vanuatu,1074,94,2016
+Kuwait,1073,95,2016
+Niger,1053,96,2016
+Burundi,1017,97,2016
+Dominican Republic,940,98,2016
+El Salvador,917,99,2016
+Uruguay,893,100,2016
+Oman,892,101,2016
+Suriname,878,102,2016
+Swaziland,876,103,2016
+"Korea, Republic of",836,104,2016
+Belarus,833,105,2016
+Serbia,806,106,2016
+Gambia,792,107,2016
+New Zealand,637,108,2016
+Belgium,609,109,2016
+Georgia,605,110,2016
+Poland,567,111,2016
+French Guiana,556,112,2016
+United Kingdom,553,113,2016
+Bosnia and Herzegovina,515,114,2016
+"Korea, Democratic People's Republic of",510,115,2016
+The former Yugoslav Republic of Macedonia,490,116,2016
+Kyrgyzstan,482,117,2016
+Austria,463,118,2016
+Qatar,407,119,2016
+Mauritania,387,120,2016
+Fiji,386,121,2016
+Somalia,385,122,2016
+Armenia,355,123,2016
+Rwanda,345,124,2016
+Slovakia,342,125,2016
+Netherlands,290,126,2016
+Morocco,287,127,2016
+Equatorial Guinea,268,128,2016
+Taiwan,268,129,2016
+Bahamas,265,130,2016
+United Arab Emirates,257,131,2016
+Bhutan,255,132,2016
+New Caledonia,246,133,2016
+Croatia,241,134,2016
+Tunisia,238,135,2016
+Czech Republic,206,136,2016
+Afghanistan,198,137,2016
+Albania,194,138,2016
+Eritrea,189,139,2016
+Hungary,188,140,2016
+Sweden,170,141,2016
+Tajikistan,166,142,2016
+Timor-Leste,163,143,2016
+Haiti,157,144,2016
+Finland,147,145,2016
+Trinidad and Tobago,145,146,2016
+Israel,138,147,2016
+Montenegro,125,148,2016
+Jamaica,121,149,2016
+Lebanon,111,150,2016
+Reunion,108,151,2016
+Lesotho,91,152,2016
+Brunei Darussalam,79,153,2016
+Palestine,78,154,2016
+Switzerland,76,155,2016
+Yemen,68,156,2016
+Latvia,65,157,2016
+Denmark,62,158,2016
+Cyprus,61,159,2016
+Norway,60,160,2016
+South Georgia South Sandwich Islands,51,161,2016
+Puerto Rico,49,162,2016
+Djibouti,44,163,2016
+Jordan,44,164,2016
+Lithuania,42,165,2016
+Ireland,37,166,2016
+Luxembourg,35,167,2016
+Samoa,32,168,2016
+Solomon Islands,27,169,2016
+Greenland,24,170,2016
+Mauritius,24,171,2016
+Falkland Islands (Malvinas),20,172,2016
+Slovenia,19,173,2016
+Estonia,18,174,2016
+Comoros,17,175,2016
+Guam,17,176,2016
+Maldives,16,177,2016
+Barbados,10,178,2016
+Hong Kong,10,179,2016
+Northern Mariana Islands,10,180,2016
+French Polynesia,9,181,2016
+Singapore,7,182,2016
+Heard Island and McDonald Islands,6,183,2016
+Montserrat,5,184,2016
+Saint Kitts and Nevis,5,185,2016
+Tonga,5,186,2016
+Antigua and Barbuda,3,187,2016
+Sao Tome and Principe,3,188,2016
+American Samoa,2,189,2016
+Bahrain,2,190,2016
+Martinique,2,191,2016
+Mayotte,2,192,2016
+"Micronesia, Federated States of",2,193,2016
+Netherlands Antilles,2,194,2016
+Niue,2,195,2016
+Saint Vincent and the Grenadines,2,196,2016
+United States Minor Outlying Islands,2,197,2016
+Andorra,1,198,2016
+Cape Verde,1,199,2016
+Cook Islands,1,200,2016
+Democratic Republic of the Congo,455980,1,2017
+Brazil,389080,2,2017
+Angola,331875,3,2017
+Australia,272808,4,2017
+Russia,227779,5,2017
+Sudan,210849,6,2017
+Zambia,198848,7,2017
+Central African Republic,164242,8,2017
+United States,152771,9,2017
+Mozambique,132206,10,2017
+China,114071,11,2017
+Canada,94971,12,2017
+Mexico,83356,13,2017
+India,82535,14,2017
+Guinea,77753,15,2017
+Kazakhstan,72497,16,2017
+United Republic of Tanzania,72258,17,2017
+Nigeria,71936,18,2017
+Argentina,60273,19,2017
+Madagascar,58559,20,2017
+Bolivia,57853,21,2017
+Ghana,53842,22,2017
+Ethiopia,52546,23,2017
+Iraq,48620,24,2017
+Burma,47485,25,2017
+Paraguay,46256,26,2017
+Chad,45929,27,2017
+Cameroon,44283,28,2017
+South Africa,44032,29,2017
+Venezuela,43245,30,2017
+Ukraine,34889,31,2017
+Mali,33407,32,2017
+Iran (Islamic Republic of),30946,33,2017
+Lao People's Democratic Republic,27439,34,2017
+Cote d'Ivoire,25785,35,2017
+Sierra Leone,25383,36,2017
+Cambodia,22529,37,2017
+Colombia,21990,38,2017
+Uganda,20898,39,2017
+Zimbabwe,20759,40,2017
+Senegal,19615,41,2017
+Congo,18998,42,2017
+Thailand,18499,43,2017
+Indonesia,17730,44,2017
+Chile,16502,45,2017
+Botswana,14960,46,2017
+Benin,14270,47,2017
+Burkina Faso,13242,48,2017
+Namibia,12526,49,2017
+Pakistan,12328,50,2017
+Viet Nam,11644,51,2017
+Peru,11513,52,2017
+Algeria,10566,53,2017
+Togo,10112,54,2017
+Turkey,9559,55,2017
+Guatemala,9366,56,2017
+Italy,8532,57,2017
+Malawi,7705,58,2017
+Liberia,7495,59,2017
+Cuba,6744,60,2017
+Portugal,6685,61,2017
+Honduras,5559,62,2017
+Papua New Guinea,5468,63,2017
+Spain,5153,64,2017
+Romania,4899,65,2017
+Mongolia,3933,66,2017
+Guinea-Bissau,3893,67,2017
+Philippines,3358,68,2017
+Ecuador,3271,69,2017
+Nicaragua,3255,70,2017
+Bulgaria,2918,71,2017
+France,2746,72,2017
+Uzbekistan,2732,73,2017
+Saudi Arabia,2621,74,2017
+Libyan Arab Jamahiriya,2613,75,2017
+Turkmenistan,2374,76,2017
+Japan,2347,77,2017
+Syrian Arab Republic,2268,78,2017
+Nepal,2165,79,2017
+Gabon,2130,80,2017
+Malaysia,2079,81,2017
+Germany,2017,82,2017
+Serbia,2017,83,2017
+Bosnia and Herzegovina,1951,84,2017
+Kenya,1837,85,2017
+Azerbaijan,1695,86,2017
+El Salvador,1680,87,2017
+Albania,1653,88,2017
+Egypt,1626,89,2017
+Greece,1494,90,2017
+Croatia,1477,91,2017
+Bangladesh,1476,92,2017
+Guyana,1465,93,2017
+Panama,1402,94,2017
+Montenegro,1350,95,2017
+Belize,1276,96,2017
+Belarus,1211,97,2017
+Swaziland,1158,98,2017
+Oman,1111,99,2017
+Costa Rica,1044,100,2017
+Gambia,1003,101,2017
+Dominican Republic,990,102,2017
+"Korea, Democratic People's Republic of",962,103,2017
+Niger,958,104,2017
+Georgia,925,105,2017
+Kuwait,840,106,2017
+The former Yugoslav Republic of Macedonia,830,107,2017
+Uruguay,786,108,2017
+"Korea, Republic of",772,109,2017
+Republic of Moldova,755,110,2017
+Sri Lanka,718,111,2017
+Vanuatu,661,112,2017
+United Kingdom,599,113,2017
+Austria,573,114,2017
+Timor-Leste,560,115,2017
+Tunisia,542,116,2017
+New Zealand,531,117,2017
+Belgium,528,118,2017
+Bahamas,523,119,2017
+Fiji,491,120,2017
+Burundi,463,121,2017
+New Caledonia,462,122,2017
+Poland,442,123,2017
+Suriname,433,124,2017
+Armenia,428,125,2017
+Kyrgyzstan,420,126,2017
+United Arab Emirates,399,127,2017
+Qatar,395,128,2017
+Taiwan,388,129,2017
+Reunion,346,130,2017
+Hungary,324,131,2017
+Lesotho,324,132,2017
+Slovakia,299,133,2017
+Morocco,289,134,2017
+Mauritania,275,135,2017
+Bhutan,268,136,2017
+Somalia,253,137,2017
+Afghanistan,247,138,2017
+Netherlands,229,139,2017
+French Guiana,217,140,2017
+Haiti,209,141,2017
+Rwanda,201,142,2017
+Czech Republic,199,143,2017
+Sweden,188,144,2017
+Jamaica,187,145,2017
+Eritrea,163,146,2017
+Ireland,163,147,2017
+Greenland,134,148,2017
+Finland,119,149,2017
+Trinidad and Tobago,101,150,2017
+Tajikistan,98,151,2017
+Equatorial Guinea,87,152,2017
+Norway,84,153,2017
+Israel,83,154,2017
+Switzerland,73,155,2017
+Yemen,69,156,2017
+Luxembourg,64,157,2017
+Puerto Rico,51,158,2017
+Jordan,50,159,2017
+Denmark,47,160,2017
+Lebanon,43,161,2017
+Slovenia,43,162,2017
+Cyprus,41,163,2017
+Djibouti,36,164,2017
+Samoa,35,165,2017
+Mauritius,31,166,2017
+Latvia,30,167,2017
+Palestine,29,168,2017
+Lithuania,25,169,2017
+Comoros,19,170,2017
+Brunei Darussalam,16,171,2017
+Cape Verde,15,172,2017
+French Polynesia,14,173,2017
+Falkland Islands (Malvinas),13,174,2017
+Estonia,11,175,2017
+Hong Kong,11,176,2017
+Maldives,11,177,2017
+Singapore,10,178,2017
+Tonga,9,179,2017
+Barbados,8,180,2017
+Malta,8,181,2017
+Northern Mariana Islands,8,182,2017
+Solomon Islands,8,183,2017
+United States Minor Outlying Islands,7,184,2017
+Montserrat,5,185,2017
+Iceland,4,186,2017
+Netherlands Antilles,4,187,2017
+Saint Kitts and Nevis,4,188,2017
+Sao Tome and Principe,4,189,2017
+Aruba,3,190,2017
+Bahrain,3,191,2017
+Guadeloupe,3,192,2017
+Guam,3,193,2017
+Martinique,3,194,2017
+Western Sahara,3,195,2017
+Andorra,2,196,2017
+Antigua and Barbuda,2,197,2017
+British Indian Ocean Territory,2,198,2017
+Dominica,2,199,2017
+American Samoa,1,200,2017
+Democratic Republic of the Congo,459143,1,2018
+Australia,306623,2,2018
+Angola,299329,3,2018
+Russia,267039,4,2018
+Sudan,241425,5,2018
+Brazil,231844,6,2018
+Zambia,194892,7,2018
+Central African Republic,188835,8,2018
+Mozambique,144942,9,2018
+United States,131221,10,2018
+India,91039,11,2018
+China,78455,12,2018
+United Republic of Tanzania,69206,13,2018
+Nigeria,68619,14,2018
+Guinea,64134,15,2018
+Venezuela,63749,16,2018
+Canada,63643,17,2018
+Madagascar,63149,18,2018
+Mexico,61635,19,2018
+Argentina,55401,20,2018
+Ethiopia,52934,21,2018
+Chad,51142,22,2018
+Bolivia,49895,23,2018
+Ghana,48942,24,2018
+South Africa,42947,25,2018
+Cameroon,42834,26,2018
+Burma,42611,27,2018
+Iraq,40566,28,2018
+Indonesia,37983,29,2018
+Colombia,31814,30,2018
+Kazakhstan,30851,31,2018
+Paraguay,29819,32,2018
+Cambodia,29005,33,2018
+Lao People's Democratic Republic,28204,34,2018
+Iran (Islamic Republic of),27305,35,2018
+Mali,25275,36,2018
+Zimbabwe,25195,37,2018
+Cote d'Ivoire,24063,38,2018
+Congo,23099,39,2018
+Sierra Leone,20064,40,2018
+Uganda,19894,41,2018
+Ukraine,18971,42,2018
+Thailand,17938,43,2018
+Senegal,15153,44,2018
+Peru,13549,45,2018
+Pakistan,13077,46,2018
+Viet Nam,13052,47,2018
+Benin,12303,48,2018
+Botswana,10347,49,2018
+Burkina Faso,9944,50,2018
+Namibia,9673,51,2018
+Togo,8960,52,2018
+Honduras,8140,53,2018
+Malawi,8067,54,2018
+Turkey,8055,55,2018
+Papua New Guinea,7903,56,2018
+Chile,7172,57,2018
+Algeria,6792,58,2018
+Guatemala,6730,59,2018
+Liberia,5628,60,2018
+Ecuador,5252,61,2018
+Nicaragua,5066,62,2018
+Philippines,4703,63,2018
+Guinea-Bissau,4398,64,2018
+Serbia,4115,65,2018
+Libyan Arab Jamahiriya,3976,66,2018
+Cuba,3737,67,2018
+Italy,3585,68,2018
+Romania,3578,69,2018
+Malaysia,3284,70,2018
+Germany,3120,71,2018
+Nepal,2947,72,2018
+Turkmenistan,2929,73,2018
+Japan,2824,74,2018
+Uzbekistan,2578,75,2018
+Saudi Arabia,2473,76,2018
+Bangladesh,2351,77,2018
+Bulgaria,2299,78,2018
+Gabon,2278,79,2018
+Spain,1668,80,2018
+Kenya,1617,81,2018
+France,1568,82,2018
+Guyana,1498,83,2018
+El Salvador,1400,84,2018
+Dominican Republic,1351,85,2018
+Egypt,1313,86,2018
+Portugal,1313,87,2018
+Oman,1301,88,2018
+Belarus,1296,89,2018
+Azerbaijan,1214,90,2018
+Niger,1202,91,2018
+Swaziland,1129,92,2018
+Costa Rica,1117,93,2018
+Panama,1107,94,2018
+Sweden,1099,95,2018
+"Korea, Republic of",973,96,2018
+Sri Lanka,932,97,2018
+Gambia,930,98,2018
+Uruguay,912,99,2018
+United Kingdom,910,100,2018
+Greece,856,101,2018
+Belize,847,102,2018
+Vanuatu,790,103,2018
+Timor-Leste,748,104,2018
+Belgium,705,105,2018
+"Korea, Democratic People's Republic of",683,106,2018
+Mongolia,661,107,2018
+Poland,638,108,2018
+Reunion,624,109,2018
+Kuwait,603,110,2018
+Suriname,579,111,2018
+The former Yugoslav Republic of Macedonia,542,112,2018
+Syrian Arab Republic,521,113,2018
+Republic of Moldova,494,114,2018
+Armenia,487,115,2018
+Kyrgyzstan,469,116,2018
+Fiji,462,117,2018
+New Zealand,459,118,2018
+Georgia,433,119,2018
+Austria,432,120,2018
+Qatar,388,121,2018
+Taiwan,386,122,2018
+Burundi,367,123,2018
+Slovakia,366,124,2018
+Netherlands,363,125,2018
+Hungary,299,126,2018
+Haiti,298,127,2018
+Finland,290,128,2018
+Morocco,270,129,2018
+French Guiana,259,130,2018
+Croatia,240,131,2018
+New Caledonia,236,132,2018
+Bosnia and Herzegovina,235,133,2018
+Eritrea,218,134,2018
+Czech Republic,204,135,2018
+Albania,200,136,2018
+Jamaica,199,137,2018
+Lesotho,197,138,2018
+Somalia,189,139,2018
+Equatorial Guinea,183,140,2018
+Bhutan,168,141,2018
+United Arab Emirates,163,142,2018
+Latvia,142,143,2018
+Bahamas,140,144,2018
+Norway,139,145,2018
+Mauritania,130,146,2018
+Afghanistan,123,147,2018
+Ireland,121,148,2018
+Yemen,121,149,2018
+Montenegro,119,150,2018
+Rwanda,115,151,2018
+Israel,94,152,2018
+Tunisia,89,153,2018
+Luxembourg,81,154,2018
+Switzerland,80,155,2018
+Denmark,77,156,2018
+Lithuania,69,157,2018
+Tajikistan,67,158,2018
+Trinidad and Tobago,61,159,2018
+Estonia,60,160,2018
+Puerto Rico,56,161,2018
+Jordan,51,162,2018
+Comoros,45,163,2018
+Lebanon,40,164,2018
+Cyprus,39,165,2018
+Mauritius,32,166,2018
+Samoa,28,167,2018
+Barbados,23,168,2018
+Palestine,20,169,2018
+Djibouti,19,170,2018
+Bahrain,17,171,2018
+French Polynesia,16,172,2018
+Solomon Islands,16,173,2018
+Brunei Darussalam,13,174,2018
+Cape Verde,13,175,2018
+Maldives,13,176,2018
+United States Minor Outlying Islands,12,177,2018
+Hong Kong,9,178,2018
+Slovenia,9,179,2018
+Guam,8,180,2018
+Saint Kitts and Nevis,8,181,2018
+Greenland,7,182,2018
+Sao Tome and Principe,6,183,2018
+Antigua and Barbuda,5,184,2018
+British Virgin Islands,5,185,2018
+Northern Mariana Islands,5,186,2018
+Turks and Caicos Islands,5,187,2018
+Western Sahara,5,188,2018
+Guadeloupe,3,189,2018
+Martinique,3,190,2018
+Singapore,3,191,2018
+American Samoa,2,192,2018
+Andorra,2,193,2018
+Aruba,2,194,2018
+French Southern and Antarctic Lands,2,195,2018
+Malta,2,196,2018
+Tonga,2,197,2018
+United States Virgin Islands,2,198,2018
+Grenada,1,199,2018
+Iceland,1,200,2018

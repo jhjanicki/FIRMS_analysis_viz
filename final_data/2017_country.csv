@@ -1,0 +1,206 @@
+,country,count,rank,year
+0,Afghanistan,247,139,2017
+1,Albania,1653,89,2017
+2,Algeria,10566,54,2017
+3,American Samoa,1,201,2017
+4,Andorra,2,197,2017
+5,Angola,331875,3,2017
+6,Antigua and Barbuda,2,198,2017
+7,Argentina,60273,19,2017
+8,Armenia,428,126,2017
+9,Aruba,3,191,2017
+10,Australia,272808,4,2017
+11,Austria,573,115,2017
+12,Azerbaijan,1695,87,2017
+13,Bahamas,523,120,2017
+14,Bahrain,3,192,2017
+15,Bangladesh,1476,93,2017
+16,Barbados,8,181,2017
+17,Belarus,1211,98,2017
+18,Belgium,528,119,2017
+19,Belize,1276,97,2017
+20,Benin,14270,48,2017
+21,Bhutan,268,137,2017
+22,Bolivia,57853,21,2017
+23,Bosnia and Herzegovina,1951,85,2017
+24,Botswana,14960,47,2017
+25,Brazil,389080,2,2017
+26,British Indian Ocean Territory,2,199,2017
+27,Brunei Darussalam,16,172,2017
+28,Bulgaria,2918,72,2017
+29,Burkina Faso,13242,49,2017
+30,Burma,47485,25,2017
+31,Burundi,463,122,2017
+32,Cambodia,22529,38,2017
+33,Cameroon,44283,28,2017
+34,Canada,94971,12,2017
+35,Cape Verde,15,173,2017
+36,Central African Republic,164242,8,2017
+37,Chad,45929,27,2017
+38,Chile,16502,46,2017
+39,China,114071,11,2017
+40,Colombia,21990,39,2017
+41,Comoros,19,171,2017
+42,Congo,18998,43,2017
+43,Costa Rica,1044,101,2017
+44,Cote d'Ivoire,25785,36,2017
+45,Croatia,1477,92,2017
+46,Cuba,6744,61,2017
+47,Cyprus,41,164,2017
+48,Czech Republic,199,144,2017
+49,Democratic Republic of the Congo,455980,1,2017
+50,Denmark,47,161,2017
+51,Djibouti,36,165,2017
+52,Dominica,2,200,2017
+53,Dominican Republic,990,103,2017
+54,Ecuador,3271,70,2017
+55,Egypt,1626,90,2017
+56,El Salvador,1680,88,2017
+57,Equatorial Guinea,87,153,2017
+58,Eritrea,163,147,2017
+59,Estonia,11,176,2017
+60,Ethiopia,52546,23,2017
+61,Falkland Islands (Malvinas),13,175,2017
+62,Fiji,491,121,2017
+63,Finland,119,150,2017
+64,France,2746,73,2017
+65,French Guiana,217,141,2017
+66,French Polynesia,14,174,2017
+67,French Southern and Antarctic Lands,1,202,2017
+68,Gabon,2130,81,2017
+69,Gambia,1003,102,2017
+70,Georgia,925,106,2017
+71,Germany,2017,83,2017
+72,Ghana,53842,22,2017
+73,Greece,1494,91,2017
+74,Greenland,134,149,2017
+75,Guadeloupe,3,193,2017
+76,Guam,3,194,2017
+77,Guatemala,9366,57,2017
+78,Guinea,77753,15,2017
+79,Guinea-Bissau,3893,68,2017
+80,Guyana,1465,94,2017
+81,Haiti,209,142,2017
+82,Heard Island and McDonald Islands,1,203,2017
+83,Honduras,5559,63,2017
+84,Hong Kong,11,177,2017
+85,Hungary,324,132,2017
+86,Iceland,4,187,2017
+87,India,82535,14,2017
+88,Indonesia,17730,45,2017
+89,Iran (Islamic Republic of),30946,33,2017
+90,Iraq,48620,24,2017
+91,Ireland,163,148,2017
+92,Israel,83,155,2017
+93,Italy,8532,58,2017
+94,Jamaica,187,146,2017
+95,Japan,2347,78,2017
+96,Jordan,50,160,2017
+97,Kazakhstan,72497,16,2017
+98,Kenya,1837,86,2017
+99,"Korea, Democratic People's Republic of",962,104,2017
+100,"Korea, Republic of",772,110,2017
+101,Kuwait,840,107,2017
+102,Kyrgyzstan,420,127,2017
+103,Lao People's Democratic Republic,27439,35,2017
+104,Latvia,30,168,2017
+105,Lebanon,43,162,2017
+106,Lesotho,324,133,2017
+107,Liberia,7495,60,2017
+108,Libyan Arab Jamahiriya,2613,76,2017
+109,Lithuania,25,170,2017
+110,Luxembourg,64,158,2017
+111,Madagascar,58559,20,2017
+112,Malawi,7705,59,2017
+113,Malaysia,2079,82,2017
+114,Maldives,11,178,2017
+115,Mali,33407,32,2017
+116,Malta,8,182,2017
+117,Martinique,3,195,2017
+118,Mauritania,275,136,2017
+119,Mauritius,31,167,2017
+120,Mayotte,1,204,2017
+121,Mexico,83356,13,2017
+122,Mongolia,3933,67,2017
+123,Montenegro,1350,96,2017
+124,Montserrat,5,186,2017
+125,Morocco,289,135,2017
+126,Mozambique,132206,10,2017
+127,Namibia,12526,50,2017
+128,Nepal,2165,80,2017
+129,Netherlands,229,140,2017
+130,Netherlands Antilles,4,188,2017
+131,New Caledonia,462,123,2017
+132,New Zealand,531,118,2017
+133,Nicaragua,3255,71,2017
+134,Niger,958,105,2017
+135,Nigeria,71936,18,2017
+136,None,27854,34,2017
+137,Northern Mariana Islands,8,183,2017
+138,Norway,84,154,2017
+139,Oman,1111,100,2017
+140,Pakistan,12328,51,2017
+141,Palestine,29,169,2017
+142,Panama,1402,95,2017
+143,Papua New Guinea,5468,64,2017
+144,Paraguay,46256,26,2017
+145,Peru,11513,53,2017
+146,Philippines,3358,69,2017
+147,Poland,442,124,2017
+148,Portugal,6685,62,2017
+149,Puerto Rico,51,159,2017
+150,Qatar,395,129,2017
+151,Republic of Moldova,755,111,2017
+152,Reunion,346,131,2017
+153,Romania,4899,66,2017
+154,Russia,227779,5,2017
+155,Rwanda,201,143,2017
+156,Saint Helena,1,205,2017
+157,Saint Kitts and Nevis,4,189,2017
+158,Samoa,35,166,2017
+159,Sao Tome and Principe,4,190,2017
+160,Saudi Arabia,2621,75,2017
+161,Senegal,19615,42,2017
+162,Serbia,2017,84,2017
+163,Sierra Leone,25383,37,2017
+164,Singapore,10,179,2017
+165,Slovakia,299,134,2017
+166,Slovenia,43,163,2017
+167,Solomon Islands,8,184,2017
+168,Somalia,253,138,2017
+169,South Africa,44032,29,2017
+170,Spain,5153,65,2017
+171,Sri Lanka,718,112,2017
+172,Sudan,210849,6,2017
+173,Suriname,433,125,2017
+174,Swaziland,1158,99,2017
+175,Sweden,188,145,2017
+176,Switzerland,73,156,2017
+177,Syrian Arab Republic,2268,79,2017
+178,Taiwan,388,130,2017
+179,Tajikistan,98,152,2017
+180,Thailand,18499,44,2017
+181,The former Yugoslav Republic of Macedonia,830,108,2017
+182,Timor-Leste,560,116,2017
+183,Togo,10112,55,2017
+184,Tonga,9,180,2017
+185,Trinidad and Tobago,101,151,2017
+186,Tunisia,542,117,2017
+187,Turkey,9559,56,2017
+188,Turkmenistan,2374,77,2017
+189,Uganda,20898,40,2017
+190,Ukraine,34889,31,2017
+191,United Arab Emirates,399,128,2017
+192,United Kingdom,599,114,2017
+193,United Republic of Tanzania,72258,17,2017
+194,United States,152771,9,2017
+195,United States Minor Outlying Islands,7,185,2017
+196,Uruguay,786,109,2017
+197,Uzbekistan,2732,74,2017
+198,Vanuatu,661,113,2017
+199,Venezuela,43245,30,2017
+200,Viet Nam,11644,52,2017
+201,Western Sahara,3,196,2017
+202,Yemen,69,157,2017
+203,Zambia,198848,7,2017
+204,Zimbabwe,20759,41,2017

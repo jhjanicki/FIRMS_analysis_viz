@@ -1,0 +1,212 @@
+,country,count,rank,year
+0,Afghanistan,110,152,2015
+1,Albania,382,126,2015
+2,Algeria,9137,58,2015
+3,American Samoa,1,201,2015
+4,Angola,343960,3,2015
+5,Antigua and Barbuda,4,192,2015
+6,Argentina,45110,26,2015
+7,Armenia,218,144,2015
+8,Aruba,1,202,2015
+9,Australia,238736,6,2015
+10,Austria,599,118,2015
+11,Azerbaijan,2562,76,2015
+12,Bahamas,205,147,2015
+13,Bahrain,6,190,2015
+14,Bangladesh,1659,92,2015
+15,Barbados,11,181,2015
+16,Belarus,4210,68,2015
+17,Belgium,495,122,2015
+18,Belize,1609,93,2015
+19,Benin,14673,50,2015
+20,Bermuda,1,203,2015
+21,Bhutan,302,135,2015
+22,Bolivia,41034,31,2015
+23,Bosnia and Herzegovina,633,116,2015
+24,Botswana,8355,60,2015
+25,Brazil,419815,2,2015
+26,Brunei Darussalam,60,164,2015
+27,Bulgaria,1711,91,2015
+28,Burkina Faso,11582,54,2015
+29,Burma,58544,19,2015
+30,Burundi,1048,103,2015
+31,Cambodia,44202,28,2015
+32,Cameroon,40512,32,2015
+33,Canada,73873,14,2015
+34,Cape Verde,27,173,2015
+35,Cayman Islands,1,204,2015
+36,Central African Republic,186975,8,2015
+37,Chad,44679,27,2015
+38,Chile,9559,56,2015
+39,China,122772,12,2015
+40,Colombia,24394,41,2015
+41,Comoros,39,169,2015
+42,Congo,21727,44,2015
+43,Costa Rica,1546,96,2015
+44,Cote d'Ivoire,32009,36,2015
+45,Croatia,354,129,2015
+46,Cuba,7325,63,2015
+47,Cyprus,64,163,2015
+48,Czech Republic,252,139,2015
+49,Democratic Republic of the Congo,475694,1,2015
+50,Denmark,99,155,2015
+51,Djibouti,53,166,2015
+52,Dominica,2,196,2015
+53,Dominican Republic,1567,94,2015
+54,Ecuador,3214,72,2015
+55,Egypt,1778,90,2015
+56,El Salvador,1561,95,2015
+57,Equatorial Guinea,239,141,2015
+58,Eritrea,273,138,2015
+59,Estonia,23,175,2015
+60,Ethiopia,57959,20,2015
+61,Falkland Islands (Malvinas),7,189,2015
+62,Fiji,506,121,2015
+63,Finland,101,154,2015
+64,France,2065,86,2015
+65,French Guiana,445,125,2015
+66,French Polynesia,15,179,2015
+67,French Southern and Antarctic Lands,1,205,2015
+68,Gabon,2296,80,2015
+69,Gambia,520,120,2015
+70,Georgia,825,107,2015
+71,Germany,2355,79,2015
+72,Ghana,54784,22,2015
+73,Greece,1343,97,2015
+74,Greenland,27,174,2015
+75,Guadeloupe,18,177,2015
+76,Guam,8,184,2015
+77,Guatemala,9242,57,2015
+78,Guinea,70875,15,2015
+79,Guinea-Bissau,5541,66,2015
+80,Guyana,2808,75,2015
+81,Haiti,276,137,2015
+82,Heard Island and McDonald Islands,1,206,2015
+83,Honduras,7107,64,2015
+84,Hong Kong,19,176,2015
+85,Hungary,373,127,2015
+86,Iceland,2092,85,2015
+87,India,68428,16,2015
+88,Indonesia,178289,9,2015
+89,Iran (Islamic Republic of),15050,48,2015
+90,Iraq,49692,24,2015
+91,Ireland,234,142,2015
+92,Isle of Man,1,207,2015
+93,Israel,91,156,2015
+94,Italy,4267,67,2015
+95,Jamaica,306,134,2015
+96,Japan,2195,82,2015
+97,Jordan,81,158,2015
+98,Kazakhstan,42578,29,2015
+99,Kenya,3718,70,2015
+100,"Korea, Democratic People's Republic of",2169,83,2015
+101,"Korea, Republic of",756,109,2015
+102,Kuwait,590,119,2015
+103,Kyrgyzstan,313,133,2015
+104,Lao People's Democratic Republic,41993,30,2015
+105,Latvia,71,160,2015
+106,Lebanon,60,165,2015
+107,Lesotho,242,140,2015
+108,Liberia,16751,47,2015
+109,Libyan Arab Jamahiriya,2435,77,2015
+110,Lithuania,108,153,2015
+111,Luxembourg,50,167,2015
+112,Madagascar,60448,18,2015
+113,Malawi,9902,55,2015
+114,Malaysia,5731,65,2015
+115,Maldives,13,180,2015
+116,Mali,26581,40,2015
+117,Martinique,9,183,2015
+118,Mauritania,133,150,2015
+119,Mauritius,33,171,2015
+120,Mayotte,2,197,2015
+121,Mexico,55735,21,2015
+122,Mongolia,8255,61,2015
+123,Montenegro,455,123,2015
+124,Montserrat,2,198,2015
+125,Morocco,218,145,2015
+126,Mozambique,153714,10,2015
+127,Namibia,11838,52,2015
+128,Nepal,1055,102,2015
+129,Netherlands,334,130,2015
+130,Netherlands Antilles,8,185,2015
+131,New Caledonia,208,146,2015
+132,New Zealand,810,108,2015
+133,Nicaragua,3776,69,2015
+134,Niger,636,115,2015
+135,Nigeria,65848,17,2015
+136,Niue,1,208,2015
+137,None,33347,35,2015
+138,Northern Mariana Islands,4,193,2015
+139,Norway,70,162,2015
+140,Oman,732,111,2015
+141,Pakistan,8661,59,2015
+142,Palau,3,194,2015
+143,Palestine,42,168,2015
+144,Panama,2239,81,2015
+145,Papua New Guinea,21193,45,2015
+146,Paraguay,28742,37,2015
+147,Peru,14845,49,2015
+148,Philippines,7493,62,2015
+149,Poland,1181,98,2015
+150,Portugal,2059,87,2015
+151,Puerto Rico,71,161,2015
+152,Qatar,454,124,2015
+153,Republic of Moldova,973,104,2015
+154,Reunion,1074,101,2015
+155,Romania,3549,71,2015
+156,Russia,247294,4,2015
+157,Rwanda,326,131,2015
+158,Saint Barthelemy,1,209,2015
+159,Saint Helena,3,195,2015
+160,Saint Kitts and Nevis,18,178,2015
+161,Saint Lucia,2,199,2015
+162,Samoa,36,170,2015
+163,Sao Tome and Principe,2,200,2015
+164,Saudi Arabia,2899,74,2015
+165,Senegal,11675,53,2015
+166,Serbia,1099,100,2015
+167,Sierra Leone,35744,34,2015
+168,Singapore,5,191,2015
+169,Slovakia,359,128,2015
+170,Slovenia,8,186,2015
+171,Solomon Islands,28,172,2015
+172,Somalia,319,132,2015
+173,South Africa,37614,33,2015
+174,South Georgia South Sandwich Islands,1,210,2015
+175,Spain,3170,73,2015
+176,Sri Lanka,670,114,2015
+177,Sudan,241810,5,2015
+178,Suriname,835,106,2015
+179,Swaziland,1154,99,2015
+180,Sweden,197,148,2015
+181,Switzerland,74,159,2015
+182,Syrian Arab Republic,2118,84,2015
+183,Taiwan,298,136,2015
+184,Tajikistan,88,157,2015
+185,Thailand,27781,38,2015
+186,The former Yugoslav Republic of Macedonia,713,112,2015
+187,Timor-Leste,735,110,2015
+188,Togo,12801,51,2015
+189,Tonga,8,187,2015
+190,Trinidad and Tobago,118,151,2015
+191,Tunisia,223,143,2015
+192,Turkey,18037,46,2015
+193,Turkmenistan,2357,78,2015
+194,Turks and Caicos Islands,1,211,2015
+195,Uganda,23094,42,2015
+196,Ukraine,48807,25,2015
+197,United Arab Emirates,617,117,2015
+198,United Kingdom,848,105,2015
+199,United Republic of Tanzania,91824,13,2015
+200,United States,146969,11,2015
+201,United States Minor Outlying Islands,11,182,2015
+202,United States Virgin Islands,8,188,2015
+203,Uruguay,2011,88,2015
+204,Uzbekistan,1958,89,2015
+205,Vanuatu,712,113,2015
+206,Venezuela,50152,23,2015
+207,Viet Nam,22304,43,2015
+208,Yemen,196,149,2015
+209,Zambia,219162,7,2015
+210,Zimbabwe,26754,39,2015

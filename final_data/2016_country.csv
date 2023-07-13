@@ -1,0 +1,207 @@
+,country,count,rank,year
+0,Afghanistan,198,138,2016
+1,Albania,194,139,2016
+2,Algeria,10065,54,2016
+3,American Samoa,2,190,2016
+4,Andorra,1,199,2016
+5,Angola,348306,2,2016
+6,Antigua and Barbuda,3,188,2016
+7,Argentina,55358,20,2016
+8,Armenia,355,124,2016
+9,Australia,158925,8,2016
+10,Austria,463,119,2016
+11,Azerbaijan,1614,90,2016
+12,Bahamas,265,131,2016
+13,Bahrain,2,191,2016
+14,Bangladesh,1911,85,2016
+15,Barbados,10,179,2016
+16,Belarus,833,106,2016
+17,Belgium,609,110,2016
+18,Belize,1153,93,2016
+19,Benin,13787,48,2016
+20,Bhutan,255,133,2016
+21,Bolivia,68304,17,2016
+22,Bosnia and Herzegovina,515,115,2016
+23,Botswana,5925,63,2016
+24,Brazil,334443,3,2016
+25,Brunei Darussalam,79,154,2016
+26,Bulgaria,2545,76,2016
+27,Burkina Faso,13524,50,2016
+28,Burma,51807,23,2016
+29,Burundi,1017,98,2016
+30,Cambodia,37317,29,2016
+31,Cameroon,45230,25,2016
+32,Canada,26949,36,2016
+33,Cape Verde,1,200,2016
+34,Central African Republic,196897,7,2016
+35,Chad,56864,19,2016
+36,Chile,7081,61,2016
+37,China,97510,12,2016
+38,Colombia,30339,32,2016
+39,Comoros,17,176,2016
+40,Congo,24443,40,2016
+41,Cook Islands,1,201,2016
+42,Costa Rica,1660,88,2016
+43,Cote d'Ivoire,31546,31,2016
+44,Croatia,241,135,2016
+45,Cuba,4139,70,2016
+46,Cyprus,61,160,2016
+47,Czech Republic,206,137,2016
+48,Democratic Republic of the Congo,512527,1,2016
+49,Denmark,62,159,2016
+50,Djibouti,44,164,2016
+51,Dominican Republic,940,99,2016
+52,Ecuador,5999,62,2016
+53,Egypt,2756,75,2016
+54,El Salvador,917,100,2016
+55,Equatorial Guinea,268,129,2016
+56,Eritrea,189,140,2016
+57,Estonia,18,175,2016
+58,Ethiopia,52573,22,2016
+59,Falkland Islands (Malvinas),20,173,2016
+60,Fiji,386,122,2016
+61,Finland,147,146,2016
+62,France,1901,86,2016
+63,French Guiana,556,113,2016
+64,French Polynesia,9,182,2016
+65,Gabon,2488,78,2016
+66,Gambia,792,108,2016
+67,Georgia,605,111,2016
+68,Germany,2217,80,2016
+69,Ghana,45093,26,2016
+70,Greece,1687,87,2016
+71,Greenland,24,171,2016
+72,Guadeloupe,1,202,2016
+73,Guam,17,177,2016
+74,Guatemala,10162,53,2016
+75,Guinea,74843,15,2016
+76,Guinea-Bissau,5212,66,2016
+77,Guyana,2166,83,2016
+78,Haiti,157,145,2016
+79,Heard Island and McDonald Islands,6,184,2016
+80,Honduras,8380,58,2016
+81,Hong Kong,10,180,2016
+82,Hungary,188,141,2016
+83,India,88837,13,2016
+84,Indonesia,23982,42,2016
+85,Iran (Islamic Republic of),26205,38,2016
+86,Iraq,53505,21,2016
+87,Ireland,37,167,2016
+88,Israel,138,148,2016
+89,Italy,4973,67,2016
+90,Jamaica,121,150,2016
+91,Japan,2215,81,2016
+92,Jordan,44,165,2016
+93,Kazakhstan,22749,43,2016
+94,Kenya,2532,77,2016
+95,Kiribati,1,203,2016
+96,"Korea, Democratic People's Republic of",510,116,2016
+97,"Korea, Republic of",836,105,2016
+98,Kuwait,1073,96,2016
+99,Kyrgyzstan,482,118,2016
+100,Lao People's Democratic Republic,42260,27,2016
+101,Latvia,65,158,2016
+102,Lebanon,111,151,2016
+103,Lesotho,91,153,2016
+104,Liberia,9089,56,2016
+105,Libyan Arab Jamahiriya,2032,84,2016
+106,Lithuania,42,166,2016
+107,Luxembourg,35,168,2016
+108,Madagascar,75790,14,2016
+109,Malawi,9872,55,2016
+110,Malaysia,5620,64,2016
+111,Maldives,16,178,2016
+112,Mali,33542,30,2016
+113,Malta,1,204,2016
+114,Martinique,2,192,2016
+115,Mauritania,387,121,2016
+116,Mauritius,24,172,2016
+117,Mayotte,2,193,2016
+118,Mexico,64663,18,2016
+119,"Micronesia, Federated States of",2,194,2016
+120,Mongolia,1618,89,2016
+121,Montenegro,125,149,2016
+122,Montserrat,5,185,2016
+123,Morocco,287,128,2016
+124,Mozambique,132594,9,2016
+125,Namibia,10182,52,2016
+126,Nepal,7657,59,2016
+127,Netherlands,290,127,2016
+128,Netherlands Antilles,2,195,2016
+129,New Caledonia,246,134,2016
+130,New Zealand,637,109,2016
+131,Nicaragua,5435,65,2016
+132,Niger,1053,97,2016
+133,Nigeria,73020,16,2016
+134,Niue,2,196,2016
+135,None,29536,35,2016
+136,Northern Mariana Islands,10,181,2016
+137,Norway,60,161,2016
+138,Oman,892,102,2016
+139,Pakistan,10950,51,2016
+140,Palau,1,205,2016
+141,Palestine,78,155,2016
+142,Panama,2211,82,2016
+143,Papua New Guinea,4254,69,2016
+144,Paraguay,40170,28,2016
+145,Peru,19311,45,2016
+146,Philippines,7262,60,2016
+147,Poland,567,112,2016
+148,Portugal,4801,68,2016
+149,Puerto Rico,49,163,2016
+150,Qatar,407,120,2016
+151,Republic of Moldova,1132,94,2016
+152,Reunion,108,152,2016
+153,Romania,3951,71,2016
+154,Russia,293798,4,2016
+155,Rwanda,345,125,2016
+156,Saint Kitts and Nevis,5,186,2016
+157,Saint Martin,1,206,2016
+158,Saint Vincent and the Grenadines,2,197,2016
+159,Samoa,32,169,2016
+160,Sao Tome and Principe,3,189,2016
+161,Saudi Arabia,2878,74,2016
+162,Senegal,18815,46,2016
+163,Serbia,806,107,2016
+164,Sierra Leone,24371,41,2016
+165,Singapore,7,183,2016
+166,Slovakia,342,126,2016
+167,Slovenia,19,174,2016
+168,Solomon Islands,27,170,2016
+169,Somalia,385,123,2016
+170,South Africa,29991,33,2016
+171,South Georgia South Sandwich Islands,51,162,2016
+172,Spain,3214,73,2016
+173,Sri Lanka,1465,92,2016
+174,Sudan,236856,5,2016
+175,Suriname,878,103,2016
+176,Swaziland,876,104,2016
+177,Sweden,170,142,2016
+178,Switzerland,76,156,2016
+179,Syrian Arab Republic,1545,91,2016
+180,Taiwan,268,130,2016
+181,Tajikistan,166,143,2016
+182,Thailand,29770,34,2016
+183,The former Yugoslav Republic of Macedonia,490,117,2016
+184,Timor-Leste,163,144,2016
+185,Togo,8886,57,2016
+186,Tonga,5,187,2016
+187,Trinidad and Tobago,145,147,2016
+188,Tunisia,238,136,2016
+189,Turkey,13554,49,2016
+190,Turkmenistan,3315,72,2016
+191,Uganda,26583,37,2016
+192,Ukraine,25825,39,2016
+193,United Arab Emirates,257,132,2016
+194,United Kingdom,553,114,2016
+195,United Republic of Tanzania,97692,11,2016
+196,United States,112656,10,2016
+197,United States Minor Outlying Islands,2,198,2016
+198,Uruguay,893,101,2016
+199,Uzbekistan,2392,79,2016
+200,Vanuatu,1074,95,2016
+201,Venezuela,50218,24,2016
+202,Viet Nam,20753,44,2016
+203,Yemen,68,157,2016
+204,Zambia,214905,6,2016
+205,Zimbabwe,18410,47,2016
