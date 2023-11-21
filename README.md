@@ -1,4 +1,4 @@
-# Visualize fire data by country and year
+# Process & visualize fire data by country and year
 
 Global fire patterns visualized based on NASA's FIRMS data, focusing on MODIS only and not VIIRS. The MODIS satellite take a ‘snapshot’ of events as it passes over the earth and each active fire detection represents the center of a 1km pixel flagged as containing one or more fires. This visualization can inform us which countries and what time of the year fires most frequently occur by visualizing the fire counts by month and year, fire counts by country by year, and country rankings by year. Why do certain countries have so many fires? Causes can be related to climate conditions, agricultural practices, volcanoes, and more. Many fire evnets over the past decade have lead to deforestation in many regions, from the Amazon to the Congo basin to Indonesia.
 
